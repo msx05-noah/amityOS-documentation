@@ -173,7 +173,7 @@ playing after the Initial Setup ends.
 A 3D animated video of a dove flying off from a branch and into the sky.
 It will then freeze in place while the “amityOS” wordmark appears below
 it. This is similar to the Windows XP OOBE
-video.<img src="media/media/image4.png"
+video.<img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Intro%20video%20stroyboard.png"
 style="width:7.32023in;height:1.91103in" />
 
 The storyboard by me.
