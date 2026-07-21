@@ -100,7 +100,7 @@ A simple loading bar (similar to Windows) or a splash screen (NOGUIBOOT,
 like Debian or other Linux distros).
 
 <img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/amityOS%20Bootscreen.png"
-style="width:3.30851in;height:2.4694in" /><img src="media/media/image3.png"
+style="width:3.30851in;height:2.4694in" /><img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Bootscreen%20(neonGraphics%20take).png"
 style="width:3.29226in;height:2.46354in" />
 
 My proposal and neonGraphics proposal
