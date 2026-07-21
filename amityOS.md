@@ -542,8 +542,8 @@ Windows drive format (ex. C:\\ like Windows and ReactOS.
 
 Concept art of the default layout:
 
-<img src="media/media/image7.png"
-style="width:2.97627in;height:2.46387in" /><img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Folder%20Venturer%201.jpg"
+<img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Folder%20Venturer%201.jpg"
+style="width:2.97627in;height:2.46387in" /><img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Folder%20Venturer%202.jpg"
 style="width:2.58854in;height:2.43029in" />
 
 Default folders:
