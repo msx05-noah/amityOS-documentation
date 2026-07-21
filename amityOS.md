@@ -103,7 +103,7 @@ like Debian or other Linux distros).
 style="width:3.30851in;height:2.4694in" /><img src="media/media/image3.png"
 style="width:3.29226in;height:2.46354in" />
 
-My proposal neonGraphics proposal
+My proposal and neonGraphics proposal
 
 #### **Basic Setup Environment**
 
