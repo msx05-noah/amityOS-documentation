@@ -291,7 +291,7 @@ The OS will support desktop composition. Users can choose between:
 “amity” Theme will have 3 color variants. Steel (Gray), Blueberry
 (Blue), and Coal (Black; dark theme)
 
-<img src="media/media/image1.png"
+<img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/amityOS%20theme%20demos.PNG"
 style="width:3.82813in;height:2.38993in" />
 
 Theme examples (Concept)
@@ -543,7 +543,7 @@ Windows drive format (ex. C:\\ like Windows and ReactOS.
 Concept art of the default layout:
 
 <img src="media/media/image7.png"
-style="width:2.97627in;height:2.46387in" /><img src="media/media/image6.png"
+style="width:2.97627in;height:2.46387in" /><img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/Folder%20Venturer%201.jpg"
 style="width:2.58854in;height:2.43029in" />
 
 Default folders:
