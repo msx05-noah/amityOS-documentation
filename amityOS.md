@@ -1,4 +1,4 @@
-<img src="[media/media/image2.png](https://github.com/msx05-noah/amityOS-documentation/blob/main/amitydoc%20banner.png)"
+<img src="https://github.com/msx05-noah/amityOS-documentation/blob/main/amitydoc%20banner.png"
 style="width:6.71354in;height:1.14086in" />
 
 ### **IMPORTANT**
