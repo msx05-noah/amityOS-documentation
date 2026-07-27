@@ -14,7 +14,7 @@ style="width:6.71354in;height:1.14086in" />
     contribute with this operating system and make it awesome. Minor
     contributions like code reworks and bug fixes are also appreciated.
 
-3.  This is now being rewritten as a Linux distribution. After talking
+3.  This is now being rewritten as a (Fedora) Linux distribution. After talking
     with someone on Discord, I have made it my choice to make this based
     on Linux with a heavily modified Desktop Environment. This project
     seemed ambitious from the get-go, especially because I wanted it to
