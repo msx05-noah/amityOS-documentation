@@ -164,9 +164,8 @@ video.
 
 - Optional guided tour at the end
 
-The background music \[is planned to\] be an instrumental of I Will Find
-You or an edited version of Just The Way You Are by Milky and it’ll stop
-playing after the Initial Setup ends.
+The background music \[is planned to\] be an instrumental of (temp), and it'll stop
+playing after the setup ends.
 
 #### **Intro Video**
 
