@@ -755,7 +755,10 @@ Amity Design Language will combine the familiarity and depth of classic
 desktop interfaces with the clarity and simplicity of modern user
 experience design. It will be a mix of Skeuomorphism (pre-iOS 7 and
 pre-Windows 8) and Modern Design (Anything after 2013). The goal is to
-provide calm, usable computing that balances warmth and clarity.
+provide calm, usable computing that balances warmth and clarity. 
+
+This design language is meant to be very consistent throughout the operating
+system, and be in the time range of late-2000s and early-2010s.
 
 ### **Miscellaneous things**
 
